@@ -1,4 +1,3 @@
-# adevaldo.github.io
 {
   "name": "InjeçãoPRO",
   "short_name": "InjeçãoPRO",
